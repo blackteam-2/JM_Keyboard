@@ -55,6 +55,40 @@ GenerateClassCluster=0
 DocumentUniqueId=QMWGVJMX
 
 [Document2]
+DocumentPath=PlateCutouts_Metric.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BXYEVVGF
+
+[Document3]
+DocumentPath=PlateCutouts_OldMoney.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BXYEVVGF
+
+[Document4]
 DocumentPath=General.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EQVGMIRF
 
-[Document3]
+[Document5]
 DocumentPath=SMD Resistors 2012.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GBMFDUIR
 
-[Document4]
+[Document6]
 DocumentPath=Sch Symbols.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GGQTDCWW
 
-[Document5]
+[Document7]
 DocumentPath=SMD Resistors 2012.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
